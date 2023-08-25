@@ -1,0 +1,22 @@
+h3{
+    background-color: blue;
+    color: red;
+    height: 100px;
+    width: 500px;
+    border-radius: 20px;
+}
+
+.copy_right_footer{
+    color: red;
+    background-color: violet;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+body{
+    background-image: url("https://i.pinimg.com/550x/b7/8b/4a/b78b4a189bb0e6190e87d5c1db9e812c.jpg");
+    background-repeat: no-repeat;
+    background-size: 700px;
+    background-color: blueviolet;
+}
